@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "/7K6Y6RJ4pISe4/GEgP/Hra58uIFA5O/vDp/2wHGav0QicvYyN35zeLnmBVrvSQahibHpmGPIGPpkFPuIG0J7w==",
+  "success": false,
+  "projectFilePath": "E:\\Portfolio\\нужное\\AeroPlanner\\AeroPlanner\\AeroPlanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\losyash\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
+    "C:\\Users\\losyash\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\losyash\\.nuget\\packages\\npgsql\\5.0.4\\npgsql.5.0.4.nupkg.sha512",
+    "C:\\Users\\losyash\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"E:\\Portfolio\\нужное\\AeroPlanner\\Db\\AeroPlanner.Db.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "E:\\Portfolio\\нужное\\AeroPlanner\\Db\\AeroPlanner.Db.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

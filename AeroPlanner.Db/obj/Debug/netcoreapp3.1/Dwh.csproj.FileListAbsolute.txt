@@ -1,0 +1,9 @@
+E:\VS2019\Projects\AeroPlanner\Dwh\obj\Debug\netcoreapp3.1\Dwh.AssemblyInfoInputs.cache
+E:\VS2019\Projects\AeroPlanner\Dwh\obj\Debug\netcoreapp3.1\Dwh.AssemblyInfo.cs
+E:\VS2019\Projects\AeroPlanner\Dwh\obj\Debug\netcoreapp3.1\Dwh.csproj.CoreCompileInputs.cache
+E:\VS2019\Projects\AeroPlanner\Dwh\bin\Debug\netcoreapp3.1\Dwh.deps.json
+E:\VS2019\Projects\AeroPlanner\Dwh\bin\Debug\netcoreapp3.1\Dwh.dll
+E:\VS2019\Projects\AeroPlanner\Dwh\bin\Debug\netcoreapp3.1\Dwh.pdb
+E:\VS2019\Projects\AeroPlanner\Dwh\obj\Debug\netcoreapp3.1\Dwh.dll
+E:\VS2019\Projects\AeroPlanner\Dwh\obj\Debug\netcoreapp3.1\Dwh.pdb
+E:\VS2019\Projects\AeroPlanner\Dwh\obj\Debug\netcoreapp3.1\Dwh.csproj.AssemblyReference.cache

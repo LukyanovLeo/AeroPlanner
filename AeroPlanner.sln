@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AeroPlanner", "AeroPlanner\AeroPlanner.csproj", "{326EA6A4-9BA8-4934-A5C7-737658C26E3A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AeroPlanner.Db", "AeroPlanner.Db\AeroPlanner.Db.csproj", "{3011D7EB-6CAB-46AE-BBD4-672488A76C21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{326EA6A4-9BA8-4934-A5C7-737658C26E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{326EA6A4-9BA8-4934-A5C7-737658C26E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{326EA6A4-9BA8-4934-A5C7-737658C26E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{326EA6A4-9BA8-4934-A5C7-737658C26E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3011D7EB-6CAB-46AE-BBD4-672488A76C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3011D7EB-6CAB-46AE-BBD4-672488A76C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3011D7EB-6CAB-46AE-BBD4-672488A76C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3011D7EB-6CAB-46AE-BBD4-672488A76C21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FEEA084-888F-409D-8724-72C8D0F49593}
+	EndGlobalSection
+EndGlobal
